@@ -4,11 +4,11 @@ This web page is the replication package of the paper we submitted to SEAMS 2016
 
 This study has been designed, developed, and reported by the following investigators:
 
-* [Darko Bozhinoski](darko.bozhinoski@gssi.infn.it) - [Gran Sasso Science Institute](http://www.gssi.infn.it/)
-* [Antonio Bucchiarone](bucchiarone@fbk.eu) - [Fondazione Bruno Kessler](http://www.fbk.eu)
-* [Ivano Malavolta](ivanomalavolta@gmail.com) - [Gran Sasso Science Institute](http://www.gssi.infn.it/)
-* [Annapaola Marconi](marconi@fbk.eu) - [Fondazione Bruno Kessler](http://www.fbk.eu)
-* [Patrizio Pelliccione](pelliccione@chalmers.se) - [Chalmers University of Technology](www.chalmers.se/en/)
+* [Darko Bozhinoski](mailto:darko.bozhinoski@gssi.infn.it) - [Gran Sasso Science Institute](http://www.gssi.infn.it/)
+* [Antonio Bucchiarone](mailto:bucchiarone@fbk.eu) - [Fondazione Bruno Kessler](http://www.fbk.eu)
+* [Ivano Malavolta](mailto:ivanomalavolta@gmail.com) - [Gran Sasso Science Institute](http://www.gssi.infn.it/)
+* [Annapaola Marconi](mailto:marconi@fbk.eu) - [Fondazione Bruno Kessler](http://www.fbk.eu)
+* [Patrizio Pelliccione](mailto:pelliccione@chalmers.se) - [Chalmers University of Technology](www.chalmers.se/en/)
 
 For any information, interested researchers can contact us by writing an email to any investigator listed above.
 
